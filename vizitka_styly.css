@@ -1,0 +1,36 @@
+body {
+  margin : auto;
+  width : 50%;
+  font-family: "Georgia", "Helvetica", "Arial", sans-serif;
+  color: #555;
+  padding: 4em 1em;
+}
+
+section {
+  overflow :auto;
+  height: auto;
+  padding : 1em 1em 1em 1em;
+  border-bottom: 1px solid black;
+}
+
+img.moje-foto{
+  width : 50%;
+  float : right;
+  border-radius: 40%;
+  padding : 1em 1em 1em 1em;
+}
+
+h1.jmeno {
+  font-variant: small-caps;
+  color: #333;
+  padding-left: 5%;
+}
+
+section.omne {
+  background-color:linen;
+}
+
+section.email {
+  background-color:  #f9e3d0;
+}
+
